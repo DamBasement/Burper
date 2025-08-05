@@ -4,3 +4,4 @@
 - [Password reset broken logic](https://learnhacking.io/portswigger-password-reset-broken-logic-walkthrough/)
 - [Username enumeration via subtly different responses](https://infosecwriteups.com/authentication-vulnerabilities-lab-4-username-enumeration-via-subtly-different-responses-5eb512d899fa)
 - [Username enumeration via response timing](https://medium.com/@frank.leitner/write-up-username-enumeration-via-response-timing-portswigger-academy-c8e6dc732b5)
+- [Broken brute-force protection, IP block](https://medium.com/@AhmadSopyan/authentication-part-6-broken-brute-force-protection-ip-block-ecbb6f63779f)
